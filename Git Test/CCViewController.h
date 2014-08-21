@@ -11,5 +11,7 @@
 @interface CCViewController : UIViewController
 
 @property (strong, nonatomic) NSString *myName;
+@property (strong, nonatomic) NSString *myNameLast;
+
 
 @end
